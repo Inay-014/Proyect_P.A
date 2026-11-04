@@ -1,7 +1,0 @@
-# Dependencias para Streamlit Community Cloud (o pip install -r requirements.txt)
-streamlit>=1.50
-plotly>=5.20
-pandas>=2.1
-numpy>=1.26
-scikit-learn>=1.4
-jinja2>=3.1
